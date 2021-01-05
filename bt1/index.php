@@ -34,6 +34,7 @@ return $count;
 ?>
 <?php
 echo (int)$count;
+echo "xin chao minh là Long";
 ?>
 
 
