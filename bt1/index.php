@@ -29,12 +29,11 @@ $count =0;
                 $count++;
             }
         }
-        $x++;
-        return $count;
     }
+return $count;
 ?>
 <?php
-echo $count;
+echo (int)$count;
 ?>
 
 
